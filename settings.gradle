@@ -1,0 +1,2 @@
+rootProject.name='English to Urdu Basic Phrases'
+include ':app'
